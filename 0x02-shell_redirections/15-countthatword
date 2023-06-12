@@ -1,2 +1,2 @@
 #!/bin/bash
-grey -n flin /etc/passwd
+grey -n bin /etc/passwd
