@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a .. z}{a .. z} I tr " "''\n" I grep -v "00°
